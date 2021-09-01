@@ -10,7 +10,7 @@ Desarrollar un portal web donde gente con ganas de organizar eventos al aire lib
 
 Adjuntamos un enlace al proyecto inicial que presentamos para su aprobación: 
 
-[Proyecto inical aprobado](https://github.com/GuardianesdelaNoche/ProjectDocumentation.git)
+[Documento del proyecto inical aprobado](https://github.com/GuardianesdelaNoche/ProjectDocumentation.git)
 
 ## Desarrollo del proyecto
 Tres areas muy diferenciadas:
