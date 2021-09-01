@@ -23,8 +23,8 @@ Desarrollado principalmente con REACT
 Desarrollado principalmente con NODE.JS y MongoDB  
 [Enlace al proyecto de Node en GitHub](https://github.com/GuardianesdelaNoche/finalBackProject.git)
  
-### Infraestructura
-[Enlace al esquema de infraestructura]()
+### Presentación e Infraestructura
+[Enlace a la presentación](https://docs.google.com/presentation/d/1wYOXQearmA0MEXDadj_GE00UexcmpCj5/edit?usp=sharing&ouid=112573050449188790176&rtpof=true&sd=true)
 
 ## Conclusiones finales
 Creemos que hemos cumplido con el objetivo principal de este proyecto, el de desarrollar una aplicación MVP en equipo.  
